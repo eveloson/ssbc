@@ -1,4 +1,5 @@
 backports.ssl-match-hostname==3.4.0.2
+pygeoip==0.3.2
 #certifi==2015.4.28
 Django==1.8.1
 django-mysql==0.1.10
